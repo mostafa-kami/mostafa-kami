@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="2400" src="https://github.com/mostafa-kami/mostafa-kami/blob/main/banner.png">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=32&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Mostafa+Kamyab+;Front-End+Developer" alt="Typing SVG" /></a>
 
